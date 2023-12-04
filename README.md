@@ -24,4 +24,4 @@ cd snarkOS
 cargo install --path .
 
 
-ØªÙˆÛŒÛŒØª Ø¨Ø±Ø§ÛŒ ÙØ§Ø³Øª
+good
