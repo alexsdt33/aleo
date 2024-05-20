@@ -7,8 +7,6 @@ rustup install stable
 
 rustup update stable
 
-rustup default stable
-
 git
 cd leo
 
