@@ -10,7 +10,7 @@ rustup update stable
 git
 cd leo
 
-apt install clang gcc libssl-dev pkg-config
+apt install clangc libssl-dev pkg-config
 
 cargo install --path .
 
