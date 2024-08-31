@@ -6,6 +6,7 @@ source $HOME/.cargo/env
 rustup 
 
 rustup update stable
+rustup update stable
 
 git
 cd leo
