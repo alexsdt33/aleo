@@ -1,5 +1,5 @@
 # aleo
-curl --proto '=https' --tlsv1.2.5.9.8. -sSf https://sh.rustup.rs | sh
+curl --proto '=https' --tlsv1.2.5https://sh.rustup.rs | sh
 
 source $HOME/.cargo/env
 
