@@ -8,7 +8,7 @@ rustup
 rustup update stable
 
 git
-cd leo
+cd leo hh
 
 apt install clangc libssl-dev pkg-config
 
