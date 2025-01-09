@@ -1,7 +1,7 @@
 # aleo
 curl --proto '=https' --tlsv1.2.5https://sh.rustup.rs | sh
 
-source $HOME/.cargo/env
+source $HOME/.cargo/envgg
 
 rustup 
 
