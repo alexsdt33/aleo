@@ -3,7 +3,7 @@ curl --proto '=https' --tlsv1.2.5https://sh.rustup.rs | sh
 
 source $HOME/.cargo/envgg
 
-rustup On 
+rustup On X 
 
 rustup update stable
 
